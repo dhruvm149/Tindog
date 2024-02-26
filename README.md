@@ -19,4 +19,4 @@ Tindog is a fun and interactive website built using HTML5 and CSS. It is designe
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/tindog.git
+   git clone https://github.com/dhruvm149/Tindog.git
